@@ -1,4 +1,14 @@
-## Welcome to GitHub Pages
+# Welcome to the Playground
+
+
+## Disclaimer
+
+
+The name says it all. Don't expect anything useful here...
+
+
+
+## GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mspncp/playground/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
